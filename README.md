@@ -39,29 +39,6 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/TanuY
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ... --> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Hi there 👋
-
 <!--
 **TQ05X78/TQ05X78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
