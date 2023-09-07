@@ -37,7 +37,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/TanuY
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ...
-- 😄 Pronouns: ... --> --->
+- 😄 Pronouns: ... --> 
 
 
 
